@@ -37,7 +37,7 @@ header .menu a{
     transition: 200ms;
 }
 
-header .menu .ativo header .menu .houver{
+header .menu .ativo, header .menu a:hover{
     color: #444;
     background-color: white;
 }
@@ -65,7 +65,7 @@ header .menu .ativo header .menu .houver{
     transition: 200ms;
 }
 
-.principal .link a:hover{
+.principal .links a:hover{
     color: #444;
     background-color: white;
 }
